@@ -28,5 +28,7 @@ https://github.com/Qmeimei10086/pte-dbg/
 添加调试器白名单  
 # 参考
 [1] https://github.com/Liu-Zhiying/StartAMDVHookDriverFromNone  
-[2] https://github.com/xyddnljydd/vt-ReloadDbg  
+[2] https://github.com/xyddnljydd/vt-ReloadDbg
 
+# 设计文档
+- [双后端设计：Intel EPT + AMD NPT](docs/dual-slat-backend-design.md)
